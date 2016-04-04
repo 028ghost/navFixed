@@ -16,14 +16,15 @@
 </ul>
 ```
 #### 内容盒子结构
-
-> \<div style="padding:400px 0 0 0;">
->        \<div class="box" id="d1">内容1</div>
->        \<div class="box" id="d2">内容2</div>
->        \<div class="box" id="d3">内容3</div>
->        \<div class="box" id="d4">内容4</div>
->        \<div class="box">我没有ID</div>
->    \</div>
+```html
+<div style="padding:400px 0 0 0;">
+    <div class="box" id="d1">内容1</div>
+    <div class="box" id="d2">内容2</div>
+    <div class="box" id="d3">内容3</div>
+    <div class="box" id="d4">内容4</div>
+    <div class="box">我没有ID</div>
+</div>
+'''
 
 ###3.接口
 * *号为必填项
