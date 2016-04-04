@@ -6,14 +6,15 @@
 
 ##2.HTML结构
 #### 导航结构
-> \<ul id="nav">
->   \<li>Item01</li>
->   \<li>Item01</li>
->   \<li>Item02</li>
->   \<li>Item03</li>
->   \<li>Item04</li>
-> \</ul>
-
+```html
+<ul id="nav">
+    <li>Item01</li>
+    <li>Item01</li>
+    <li>Item02</li>
+    <li>Item03</li>
+    <li>Item04</li>
+</ul>
+```
 #### 内容盒子结构
 
 > \<div style="padding:400px 0 0 0;">
