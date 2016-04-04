@@ -2,7 +2,7 @@
 #### [预览地址](http://codepen.io/ghost028/pen/qZjpRL)
 
 ##1.调用JS
-> 在\</body>里加入\<script src="js/createSVG.js"></script>
+> 在\</body>里加入\<script src="js/navFixed.js"></script>
 
 ##2.HTML结构
 #### 导航结构
